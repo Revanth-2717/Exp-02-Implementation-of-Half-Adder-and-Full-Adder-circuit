@@ -47,22 +47,17 @@ input a,b;
 output sum, carry;
 xor sum1 (sum, a,b);
 and carry1 (carry,a,b);
-endmodule
+endmodule  
 
-RTL:
-![ Image 2024-01-02 at 21 17 08_58476ed3](https://github.com/Revanth-2717/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/152462274/5cdbcb7c-242a-4402-a521-be63557836b0)
-
-Timing table:
-![ Image 2024-01-02 at 21 18 16_a1e29035](https://github.com/Revanth-2717/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/152462274/6f5d977c-e63c-495e-b05a-1e9b22397541)
-
-Logic symbol & Truthtable:
-![ Image 2024-01-02 at 21 15 41_e940a9b6](https://github.com/Revanth-2717/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/152462274/ea05e80e-ba54-4858-8560-fc073477e523)
 
 ### Output:
-### RTL
-### TIMING DIAGRAM
+### RTL:
+![Image 2024-01-02 at 21 17 08_66de964d](https://github.com/Revanth-2717/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/152462274/1e9560b2-3ff1-4356-8b6a-2bc685597cf3)
 
+### TIMING DIAGRAM:
+![Image 2024-01-02 at 21 18 16_63a1ad60](https://github.com/Revanth-2717/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/152462274/f2e73541-797a-49ce-ac30-f3963d07c025)
 
-### TRUTH TABLE 
+### TRUTH TABLE :
+![ Image 2024-01-02 at 21 15 41_ee8a1f70](https://github.com/Revanth-2717/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/152462274/f2ed6f55-e5f8-44da-b0df-f04f77619c0e)
 
 ### Result:
