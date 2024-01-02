@@ -38,11 +38,24 @@ If the output is 1, then the led glows.
 Program:
 /*
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
-Logic symbol & Truthtable
-RTL realization
+Developed by: Revanth Palagiri
+
+RegisterNumber:  23002622
+program:module mod(sum, carry,a,b);
+input a,b;
+output sum, carry;
+xor sum1 (sum, a,b);
+and carry1 (carry,a,b);
+endmodule
+
+
+Logic symbol & Truthtable:
+![Image 2024-01-02 at 21 15 41_dfb9263d](https://github.com/Revanth-2717/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/152462274/5dd7d208-b0b2-4b2a-9d8e-9044f80006aa)
+
+RTL realization:
+![Image 2024-01-02 at 21 17 08_8b64f175](https://github.com/Revanth-2717/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/152462274/beed8d69-2587-428b-b846-ee5d83654edf)
+Truth table:
+![Image 2024-01-02 at 21 18 16_5dde1386](https://github.com/Revanth-2717/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/152462274/4e37d1e4-c6ce-480c-bca2-2b3348b6caf8)
 
 ### Output:
 ### RTL
