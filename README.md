@@ -1,4 +1,3 @@
-![WhatsApp Image 2024-01-02 at 21 18 16_45bf4d62](https://github.com/Revanth-2717/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/152462274/30b43739-1fe8-43c9-93bb-791d16721c24)# Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit
 
 # Implementation-of-Half-Adder-and-Full-Adder-circuit
 ### AIM:
